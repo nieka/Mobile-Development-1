@@ -345,7 +345,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454508090385</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="version number set on 5.0.0">
+      <created>1454508176853</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1454508176853</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -393,7 +399,8 @@
     <MESSAGE value="splash screen fix?" />
     <MESSAGE value="huiswerk week 1" />
     <MESSAGE value="version number fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="version number fix" />
+    <MESSAGE value="version number set on 5.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version number set on 5.0.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

@@ -18,7 +18,7 @@
   <preference name="disable-cursor" value="false"/>
   <preference name="android-minSdkVersion" value="14"/>
   <preference name="android-installLocation" value="auto"/>
-  <preference name="phonegap-version" value="cli-5.0.0" />
+  <preference name="phonegap-version" value="cli-5.2.0" />
   <!--Splash screen-->
   <preference name="SplashScreen" value="www/res/screen/android/screen-hdpi-portrait.png" />
   <gap:plugin name="org.apache.cordova.splashscreen"/>
