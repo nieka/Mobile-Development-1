@@ -20,9 +20,11 @@
   <preference name="android-installLocation" value="auto"/>
   <preference name="phonegap-version" value="cli-5.2.0" />
   <!--Splash screen-->
+  <gap:plugin name="org.apache.cordova.splashscreen"/>
   <preference name="SplashScreen" value="www/res/screen/android/screen-hdpi-portrait.png" />
   <preference name="AutoHideSplashScreen" value="false" />
-  <gap:plugin name="org.apache.cordova.splashscreen"/>
+  <preference name="SplashShowOnlyFirstTime" value="false" />
+
   <icon src="icon.png"/>
   <icon src="www/res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
   <icon src="www/res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:qualifier="mdpi"/>
