@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37243fb6-ce07-4002-bc77-c0a9caa84bc1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/.pgbomit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/bada-wac/icon-48-type5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/bada-wac/icon-50-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/bada-wac/icon-80-type4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/bada/icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/blackberry/icon-80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-57-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-72-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/tizen/icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/webos/icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-xhdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-xhdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada/screen-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/blackberry/screen-225.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-568h-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/tizen/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/webos/screen-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/windows-phone/screen-portrait.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine-html.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
     </list>
     <ignored path="Mobile-Development-1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,8 +27,8 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.5006321">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -390,7 +333,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454423325611</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="huiswerk week 1">
+      <created>1454508010598</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1454508010598</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -399,13 +348,13 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17960909" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32247192" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -436,7 +385,8 @@
     <MESSAGE value="splash screen gezet" />
     <MESSAGE value="splash screen" />
     <MESSAGE value="splash screen fix?" />
-    <option name="LAST_COMMIT_MESSAGE" value="splash screen fix?" />
+    <MESSAGE value="huiswerk week 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="huiswerk week 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -511,8 +461,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.5006321">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding />
         </state>
       </provider>
