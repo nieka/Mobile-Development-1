@@ -27,8 +27,8 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5006321">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.4728192">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -339,7 +339,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454508010598</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="version number fix">
+      <created>1454508090385</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1454508090385</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -386,7 +392,8 @@
     <MESSAGE value="splash screen" />
     <MESSAGE value="splash screen fix?" />
     <MESSAGE value="huiswerk week 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="huiswerk week 1" />
+    <MESSAGE value="version number fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="version number fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -461,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5006321">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.4728192">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
           <folding />
         </state>
       </provider>
